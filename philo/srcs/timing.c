@@ -45,7 +45,7 @@ int	mysleep(int t, t_data *data)
 	stime = timed(data);
 	while (time < t)
 	{
-		usleep(300);
+		usleep(1000);
 		res = check_death(data);
 		if (res)
 			return (res);
