@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <body>
-  <h1>Philosophers : <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cljbd5ceo007308mltneinai5/project/2353767" alt="hlevi's 42 Philosophers Score" /></a></h1>
+  <h1>Philosophers :</a></h1>
   
   <h2>Project Description</h2>
   <p>The Philosophers project involves simulating a dining philosophers problem. The programs simulate philosophers sitting at a table and performing eating, sleeping, and thinking actions using threads and mutexes.</p>
